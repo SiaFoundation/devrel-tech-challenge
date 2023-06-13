@@ -45,5 +45,6 @@ Requests can then be made per the API documentation or with the `renterd` SDK.
 ```sh
 curl -u :10eaea417c1dcbea6bec6382ec9547ea https://renterd-mock.sia.tools/api/worker/objects/foo/bar.jpg
 ```
-Submission
+### Submission
+
 To submit your task, create a new GitHub repo and email the link to your interviewer. If you have any questions or issues, join the Sia discord https://discord.gg/sia and message Nate or Steve.
